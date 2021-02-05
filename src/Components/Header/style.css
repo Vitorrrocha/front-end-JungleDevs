@@ -1,0 +1,51 @@
+
+.header {
+    /* height: 80px; */
+}
+
+.shape {
+    position: absolute;
+    width: 48px;
+    height: 64px;
+    left: 16px;
+    top: 0px;    
+    background: #00C88C;
+    border-radius: 0px 0px 32px 32px;
+}
+
+.smile-mouth {
+   
+}
+
+.register-box {
+    position: absolute;
+    width: 234px;
+    height: 44px;
+    left: 110px;
+    top: 16px;
+    border-radius: 4px;
+    background: #00C88C;
+    border-radius: 4px;
+}
+
+.register-box > h5 {  
+    top: -8px;
+    position: absolute;
+    margin: 25px 0 25px 35px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.register-box > h5 a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.register-box > h5 >a:hover{
+    text-decoration: underline;
+    color: black;
+}
